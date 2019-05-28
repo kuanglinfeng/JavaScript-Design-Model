@@ -1,2 +1,2 @@
-# JavaScript-Design-Model
+# JavaScript-Design-Patterns
 JavaScript设计模式
